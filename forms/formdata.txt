@@ -1,0 +1,79 @@
+COVER FORM
+
+    Science Working Group: Blazar
+
+    Theme(s): 1,2,3
+
+    Multi-Year Project?: no
+
+    Title: Detecting Flaring Blazars Using VERITAS Filler Observations
+
+    Abstract: This proposal requests filler observations of all known Northern 
+VHE blazars to identify flaring states.  If an unusually bright flare (5 
+times the low-state flux; minimally 10% Crab) is observed, a 2-h 
+ToO observation is requested at the next available good-weather 
+opportunity.  Similar ToO observations are requested on following 
+days if the flare is confirmed and continues.
+
+    PI INFORMATION
+
+        First name: Wystan
+
+        Last name: Benbow
+
+        Email: wbenbow@cfa.harvard.edu
+
+        Institution: SAO
+
+    Fermi-GI award? no
+
+    Who will analyze and when: All data will be initially processed by automatic next-day pipelines 
+running VEGAS and EventDisplay by\r\n10 am Eastern. An 
+automatic quality-selected VEGAS pipeline will be run by 5 pm 
+Eastern. Final analyses will be prepared by the SAO group.\r\n
+
+    Multiwavelength requirement: yes
+
+        May trigger ToO observations at MWL facilities
+
+    Thesis: no
+
+        Whom: 
+
+    Target of Opportunity observations? yes
+
+        Trigger condition: 5x flare
+
+        Anticipated rate of triggers per year: 2
+
+        Minimum observation-hours per trigger: 2
+
+TARGET FORM
+**********************
+    Source: 1ES 0033+595
+
+    RA: 00 35 52.63
+
+    dec: +59 50 04.6
+
+    Minimum Elevation: 55
+
+    Requested Exposure (hours): 0
+
+    Minimum Exposure (hours): 0
+
+    Observation Mode: Wobble
+
+        specs: 0.5
+
+    No. Tels: 2
+
+    Moonlight: yes
+
+    Weather: B
+
+    Observation from: September
+
+    to: December
+
+    Comments: 

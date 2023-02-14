@@ -1,0 +1,129 @@
+body,
+
+	html {
+		margin:0;
+		padding:0;
+		
+		color:#000;
+		font: small "Trebuchet MS",Verdana,Arial,Sans-serif;
+		font-size: 10pt
+	}
+
+	body {
+		min-width:750px;
+	}
+
+	#wrap {
+		
+		margin: 0 auto;
+		width:750px;
+	}
+
+	#header {
+		
+		height: 100px;
+		padding: 10px 0px 10px 10px;
+		color: #333333;
+		font-size: 40px;
+		font-weight: bold;
+		border-bottom: solid 1px white;
+	}
+
+	#header h1 {
+    	padding:5px;
+	    margin:0;
+    }
+
+	#nav {
+		background:#333333;
+		padding: 5px 5px 5px 10px;
+		color: white;
+		border-bottom: solid 1px white;
+	}
+
+	#nav ul{
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+
+	#nav li{
+		display:inline;
+		margin:0;
+		padding:0;
+	}
+
+	#main {
+		background:#FFFFFF;
+		float:left;
+		width:750px;
+	}
+
+		
+	#main p {
+		padding: 0 10px;
+	}
+
+
+	#sidebar {
+                background:#B1B1B1;			
+		float:right;
+		width:0px;
+		height: 615px;
+	}
+
+	#sidebar ul {
+		margin-bottom:0;
+    }
+
+    #sidebar h3, #sidebar p {
+		padding:0 10px 0 0;
+    }
+
+	#footer {
+		background:#F0F0F0;
+		clear:both;
+		text-align: center;
+		padding: 5px;
+		font-size: 11px;
+		margin-bottom: 20px;
+	}
+
+	#footer p {
+		padding:5px;
+		margin:0;
+    }
+
+	.heading1 {
+		color: #333333;
+		font-size: 20pt;
+	}
+
+        
+
+        .class1 A:link {text-decoration: none; color: white;}
+        .class1 A:visited {text-decoration: none; color: white;}
+        .class1 A:active {text-decoration: none; color: white;}
+        .class1 A:hover {text-decoration: underline; color: white;}
+
+        .class2 A:link {text-decoration: none; color: black;}
+        .class2 A:visited {text-decoration: none; color: black;}
+        .class2 A:active {text-decoration: none; color: black;}
+        .class2 A:hover {text-decoration: underline; color: black;}
+
+
+        #loading{
+                text-align: center;  
+                visibility: hidden;  
+        }  
+
+/*
+        #form_main {
+         display:none;
+        }
+
+/*
+        #form0 {
+         display:none;
+        }
+*/

@@ -1,0 +1,29 @@
+<html>
+
+<form id="saved_form" method="POST" enctype="multipart/form-data" action="uploadtxt.php" target="upload_saved"> 
+<div id='saved_div'> 
+
+<label for="file_saved">Upload saved text file here </label><input name="file_saved" id="file_saved" size="27" type="file"><br />
+<center><input type="submit" id="saved_submit" name="saved_submit"  value="Upload"><input type="submit" id='saved_back' name='saved_back' value="Back"></center>
+<input type="hidden" name="hidden_form" id="hidden_form" value="" />
+<tr><td><iframe id="upload_saved" name="upload_saved" src="" style="width:0px;height:0px;border:0px solid #ccc;"> </iframe></td></tr>
+</div>
+</form>
+
+</html>
+
+
+
+<script type='text/javascript'>
+
+
+//target="upload_saved">
+
+//<center><input type="submit" id="saved_submit" name="saved_submit" value="Upload" /><input type="button" id='saved_back' value="Back"></center>
+//alert('Test' + document.getElementById('upload_target'));
+/*
+        document.getElementById('main_form').target = 'upload_target'; 
+        document.getElementById('main_form').action = 'upload.php';
+        document.getElementById('main_form').submit();
+        */
+</script>
